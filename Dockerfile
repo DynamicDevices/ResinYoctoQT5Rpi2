@@ -1,5 +1,5 @@
 # Test Yocto QT5/Mono docker image
-FROM dynamicdevices/qt5-x11-image-raspberrypi2:20160409123125
+FROM dynamicdevices/qt5-x11-image-raspberrypi2:20160409145330
 MAINTAINER Alex J Lennon <ajlennon@dynamicdevices.co.uk>
 
 # Configure xserver input
