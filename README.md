@@ -2,7 +2,7 @@
 
 Example Resin.io Docker configuration for running an x-server based UI with QT5 support on the Raspberry Pi v2
 
-The docker file references an image on he Docker Hub which is built from Yocto Poky Jethro, meta-raspberrypi and meta-rpi
+The docker file references an image on the Docker Hub which is built from Yocto Poky Jethro, meta-raspberrypi and meta-rpi
 
 The image target is qt5-x11-image. 
 
