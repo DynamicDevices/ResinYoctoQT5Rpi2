@@ -7,7 +7,6 @@ mkdir -p /var/volatile/log
 dbus-uuidgen > /var/lib/dbus/machine-id
 
 # Start X11
-sleep 10
 /etc/init.d/xserver-nodm start
 
 # Run a QT app
